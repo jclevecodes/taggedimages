@@ -145,13 +145,3 @@ React App  --->  API Gateway  --->  Lambda Function  --->  S3 & Rekognition
 * **Permissions**: Ensure the IAM role has correct S3 and Rekognition actions.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## Contact
-
-For questions or feedback, open an issue or reach out to `your-email@example.com`.
